@@ -25,3 +25,8 @@ Predict Canada's per capita income in 2016 to 2030 ?.
 - Creating model class object.
 
 - Trained the model
+## Predict canada's per capita income in 2016 to 2030 
+
+![Per_capita_income_in_Canada](https://user-images.githubusercontent.com/122977758/227459434-44020d6b-b612-4ff2-a872-65638efae5c4.png)
+- Adding per_capita_income in data frame
+- Saving updated data frame as csv file
