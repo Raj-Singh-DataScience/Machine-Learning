@@ -22,3 +22,6 @@ Predict Canada's per capita income in 2016 to 2030 ?.
 
 ![Scatter_plot_of_given_data](https://user-images.githubusercontent.com/122977758/227458288-c8ea0993-09ff-4b1f-b6b4-bfc58697e923.png)
 
+- Creating model class object.
+
+- Trained the model
