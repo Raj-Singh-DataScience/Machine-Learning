@@ -1,4 +1,4 @@
-# Build a Prediction Model using Linear Regression Model.
+# Per Capita Income Prediction Model for Canada - Build a Prediction Model using Linear Regression in Python.
 
 Build Linear Regression Model using Python to Predict Canada's per capita income.
 
@@ -8,7 +8,7 @@ Predict Canada's per capita income in 2016 to 2030 ?.
 
 ## Project Planning and Roadmap:
 
-- Purpose - To build a Prediction Model.
+- Purpose - To build a Per Capita Income Prediction Model.
 
 - Stakeholders - Sales Director, Marketing Team, Customer Service Team, Data and Analytics Team, IT Team. 
 
