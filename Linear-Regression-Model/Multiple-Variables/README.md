@@ -28,5 +28,6 @@ Predict Salary of Candidates on the basis of work experience, test score, and in
 
 - Predict Salary of Candidates on the basis of work experience, test score, and interview score.
 
+![Model Prediction](https://user-images.githubusercontent.com/122977758/227775742-6f3fa9c1-d617-4cb8-8007-7e02c39703c1.png)
 
 
