@@ -19,6 +19,7 @@ Predict Salary of Candidates on the basis of work experience, test score, and in
 - Read csv file.
 
 - Handling NA Values.
+
 ![Handing NA](https://user-images.githubusercontent.com/122977758/227775621-7c96c477-dd50-489e-8f77-d3dfce013a18.png)
 
 - Creating model class object.
