@@ -1,4 +1,4 @@
-# Build a Prediction Model using Linear Regression Model.
+# Salary Prediction Model for HR - Build a Prediction Model using Linear Regression .
 
 Build Linear Regression Model using Python to Predict Canada's per capita income.
 
