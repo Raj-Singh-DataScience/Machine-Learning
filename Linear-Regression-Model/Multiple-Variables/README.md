@@ -1,6 +1,6 @@
-# Salary Prediction Model for HR - Build a Prediction Model using Linear Regression .
+# Salary Prediction Model for HR - Build a Prediction Model using Linear Regression in Python .
 
-Build a Salary Prediction Model for HR in Python where predict Salary of Candidates on the basis of work experience, test score, and interview score .
+Build a Salary Prediction Model for HR in Python to predict Salary of Candidates on the basis of work experience, test score, and interview score .
 
 
 ## Problem Statement:
