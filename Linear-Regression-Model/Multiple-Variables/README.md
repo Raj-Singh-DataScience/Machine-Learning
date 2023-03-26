@@ -1,37 +1,32 @@
+# Build a Prediction Model using Linear Regression Model.
 
-# SALES PERFORMANCE REPORT, TREND ANALYSIS and FORECASTING (POWER BI)
-
-Project shows sales performance report, trend analysis and forecasting for a chocolate manufacturing company.
+Build Linear Regression Model using Python to Predict Canada's per capita income.
 
 
 ## Problem Statement:
-Our case study is based on a chocolate manufacturing company which is facing challenges in dynamically changing market. Sales director decides to invest in data analysis project and They would like to build power BI dashboard that can give them better sales insights so they could take decision to enhance their business (product sales) one step ahead.
+Predict Canada's per capita income in 2016 to 2030 ?.
+
 ## Project Planning and Roadmap:
 
-- Purpose - To unlock sales insights those are not visible before for sales team for decision support.
+- Purpose - To build a Prediction Model.
 
 - Stakeholders - Sales Director, Marketing Team, Customer Service Team, Data and Analytics Team, IT Team. 
 
-- End Result - An Automated and Interactive Dashboard providing quick and latest sales insights in order to support data-driven decision-making.
+- End Result - we built a machine learning model to predict per capita income.
 
-- Data Collection/Gathering - Collected data from different sources (from Client) and prepared an excel file to explore the data tables and done data cleaning (i.e. fixing or removing incorrect, corrupted, incorrectly formatted, duplicate etc.) as well during this period. 
+- Data Collection/Gathering - Collected data from different sources (from Client) and prepared an excel file. 
 
-- Loaded Data in Power BI Desktop (excel file integration). 
+- Read csv file.
 
-- Done Data Transformation & Cleaning (i.e. inconsistent spacing, null values etc.) in Power BI.
-
-- Created relationship between tables in Power BI (Model Relationship).
-
-- Using DAX to create imp measures.
-
-- Performed Data Analysis in Power BI.
-
-- Created Dashboards for Sales Insight (i.e. Sales Performance Report) in Power BI.
-
-- Also, we have done “Trend analysis and Forecasting”.
+- Plotting all data points as scatter plot.
 
 
 
+- Creating model class object.
+
+- Trained the model.
+## Predict canada's per capita income in 2016 to 2030 
 
 
-
+- Adding per_capita_income in data frame.
+- Saving updated data frame as csv file.
